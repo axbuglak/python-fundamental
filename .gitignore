@@ -7,4 +7,3 @@ Scripts
 .env.local
 .env.*.local
 *.json
-*.cfg
