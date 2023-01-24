@@ -1,0 +1,9 @@
+downloaded
+.idea
+Lib
+Scripts
+# local env files
+.env.local
+.env.*.local
+*.json
+*.cfg
