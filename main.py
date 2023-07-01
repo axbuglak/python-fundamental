@@ -119,3 +119,4 @@ if __name__ == '__main__':
     application.add_handler(MessageHandler(filters.Document.ALL, upload_file))
     
     application.run_polling()
+    
